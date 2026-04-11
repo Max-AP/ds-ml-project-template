@@ -1,0 +1,11 @@
+# Dependencias base para proyectos de Ciencia de Datos
+jupyterlab
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+python-dotenv
+fastapi
+uvicorn
+joblib
