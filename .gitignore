@@ -16,3 +16,18 @@ __pycache__/
 
 # Mac OS
 .DS_Store
+
+# Modelos
+models/**
+!models/.gitkeep
+
+# Datos del proyecto (NO subir datasets)
+data/raw/**
+data/interim/**
+data/processed/**
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Ruta legacy/local accidental de datasets
+src/data/raw/**
